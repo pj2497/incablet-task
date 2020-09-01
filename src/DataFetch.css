@@ -1,0 +1,19 @@
+.buttons {
+  margin-top: 50px;
+  margin-left: 450px;
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  margin: 20px;
+  padding: 10px;
+  background-color: moccasin;
+}
+
+.heading {
+  margin: 30px;
+  padding: 20px;
+  position: sticky;
+  top: 0%;
+}
